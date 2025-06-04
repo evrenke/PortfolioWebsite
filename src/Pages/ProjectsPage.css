@@ -1,0 +1,45 @@
+.ProjectPage {
+    text-align: center;
+  }
+  
+  .ProjectPage-logo {
+    height: 40vmin;
+    pointer-events: none;
+  }
+  
+  .ProjectPage-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+
+  .ProjectPage-title{
+    background-color: #282c34;
+    height:"150px";
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+  
+  .ProjectPage-body {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+  
+  .ProjectPage-link {
+    color: #61dafb;
+  }
